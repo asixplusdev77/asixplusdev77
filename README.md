@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">A DApp Developer & UX/UI Designer</h3>
+  <h3 align="center">A Principal DApp and Web Application Developer</h3>
 
 - 😎 Interested in contributing expertise in web and blockchain development
 
