@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">A Principal DApp and Web Application Developer</h3>
+  <h3 align="center">A Principal Web and DApp Developer</h3>
 
 - 😎 Interested in contributing expertise in web and blockchain development
 
@@ -26,6 +26,58 @@
 - ⚡ Quotes: *What you do today can improve all of your tomorrows.*
 </p>
   
+### Web & Mobile Experiences
+
+<table>
+    <thead align="center">
+        <tr>
+            <td>Moooi</td>
+            <td>Canada777</td>
+            <td>Letstango</td>       
+            <td>iCliniq</td>
+            <!-- <td>Needed</td> -->
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="htts://moooi.com" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183198527-80608842-7a4d-46fd-b186-18b4f71f7492.PNG" width="200" height="130">
+            </a>
+        </td>
+        <td>
+            <a href="htts://canada777.com" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183197667-c75767a5-85af-445d-a69c-28c765f5b372.PNG" width="200" height="130">
+            </a>
+        </td>
+        <td>
+            <a href="https://letstango.com" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183199452-18397bf5-c186-4083-bd4e-a945a15e7a8f.png" width="200" height="130">
+            </a>
+        </td>           
+       <!-- <td>
+            <a href="https://thisisneeded.com/" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183200297-3ae66e04-9503-4276-83e4-2beb0fdf58cf.png" width="200" height="130">
+            </a>
+        </td>   -->
+        <td>
+            <a href="https://icliniq.com/" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183201755-c1201819-d426-4c32-9505-9c1247fc41eb.PNG" width="200" height="130">
+            </a>
+        </td>         
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>Booking</td>
+        </tr>
+    </thead>
+    <tr>    
+        <td>
+            <a href="https://booking.com/" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/183202414-30290a26-f773-4cc8-96b8-c1a40813dd40.PNG" width="200" height="130">
+            </a>
+        </td>             
+    </tr>   
+</table>
 ### DeFi Experiences
 - NFT Mint Dapps
 <table>
@@ -143,59 +195,6 @@
             </a>
         </td> 
     </tr>  
-</table>
-  
-### Web & Mobile Experiences
-
-<table>
-    <thead align="center">
-        <tr>
-            <td>Moooi</td>
-            <td>Canada777</td>
-            <td>Letstango</td>       
-            <td>iCliniq</td>
-            <!-- <td>Needed</td> -->
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="htts://moooi.com" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183198527-80608842-7a4d-46fd-b186-18b4f71f7492.PNG" width="200" height="130">
-            </a>
-        </td>
-        <td>
-            <a href="htts://canada777.com" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183197667-c75767a5-85af-445d-a69c-28c765f5b372.PNG" width="200" height="130">
-            </a>
-        </td>
-        <td>
-            <a href="https://letstango.com" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183199452-18397bf5-c186-4083-bd4e-a945a15e7a8f.png" width="200" height="130">
-            </a>
-        </td>           
-       <!-- <td>
-            <a href="https://thisisneeded.com/" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183200297-3ae66e04-9503-4276-83e4-2beb0fdf58cf.png" width="200" height="130">
-            </a>
-        </td>   -->
-        <td>
-            <a href="https://icliniq.com/" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183201755-c1201819-d426-4c32-9505-9c1247fc41eb.PNG" width="200" height="130">
-            </a>
-        </td>         
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>Booking</td>
-        </tr>
-    </thead>
-    <tr>    
-        <td>
-            <a href="https://booking.com/" target="_blank">
-                <img src="https://user-images.githubusercontent.com/101267106/183202414-30290a26-f773-4cc8-96b8-c1a40813dd40.PNG" width="200" height="130">
-            </a>
-        </td>             
-    </tr>   
 </table>
 
 ## My Skills
