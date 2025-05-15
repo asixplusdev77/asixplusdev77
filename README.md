@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">A Principal Web and DApp Developer</h3>
+  <h3 align="center">A Principal Web and Blockchain Developer</h3>
 
 - 😎 Interested in contributing expertise in web and blockchain development
 
